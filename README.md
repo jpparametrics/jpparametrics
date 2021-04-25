@@ -8,7 +8,10 @@
 - Major in Mechanical Engineering
 - Minor in Aerospace Engineering
 
-### Projects I am currently assisting the Portland State Aerospace Society [Website](https://www.pdxaerospace.org/) and [GitHub](https://github.com/psas) as an Industry Advisor.
+### Projects I am currently assisting the Portland State Aerospace Society as an Industry Advisor.
+- PSAS on the web: [Website](https://www.pdxaerospace.org/)
+- PSAS on GitHub:  [GitHub](https://github.com/psas)
+
 - [LFETS](https://github.com/psas/liquid-engine-test-stand)
 - [LV4.0 Airframe](https://github.com/psas/lv4.0-airframe)
 - [LV4.0 LRE](https://github.com/psas/liquid-propellant-engine)
